@@ -20,13 +20,14 @@ a {
 }
 .container {
     width: 1158px;
-    padding: 0 15px;
+padding: 0 15px 0 15px;
   margin: 0 auto;
 }
 
 .header-container {
 display: flex;
 align-items: center;
+
 }
 
 .navigation { 
@@ -111,10 +112,7 @@ display: flex;
 
 }
 
-.container{ 
-width: 1440px;
 
-}
 
 .title-class {
     font-family: "Roboto", sans-serif;
@@ -215,7 +213,7 @@ text-align: center;
     padding: 120px 0;
 }
 
-.container { 
+.container-ty { 
 width: 1440px;
     height: 732px;
     padding: 32px 0
@@ -259,6 +257,11 @@ border-radius: 0 0 4px 4px;
    
 }
 
+.post { 
+padding: 32px 0;
+
+}
+
 .title-mark {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -281,6 +284,7 @@ border-radius: 0 0 4px 4px;
     text-align: center;
     color: #434455;
     background-color: #FFFFFF;
+    
 }
 
 .container-section-for { 
@@ -351,7 +355,7 @@ width: 1440px;
     padding: 100px
 }
 
-.container { 
+.container-darc-bg- { 
 width: 264px;
     height: 112px;
     
