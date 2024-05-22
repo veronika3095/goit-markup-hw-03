@@ -196,10 +196,11 @@ padding: 120px 0
     display: flex;
     gap: 24px;
 text-align: center;
-margin-left: auto;
-    margin-right: auto;
+
 
 }
+
+
 
 .title-section {
     font-family: "Roboto", sans-serif;
