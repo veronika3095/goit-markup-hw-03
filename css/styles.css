@@ -179,7 +179,7 @@ position: absolute;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-    margin-bottom: 8px;
+    
 }
 
 h2 {
@@ -205,7 +205,9 @@ padding: 120px 0
 
 }
 
-
+.class-li { 
+width: calc((100% - 72px) / 4);
+}
 
 .title-section {
     font-family: "Roboto", sans-serif;
@@ -214,6 +216,7 @@ padding: 120px 0
     line-height: 120%;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
     
 }
 
