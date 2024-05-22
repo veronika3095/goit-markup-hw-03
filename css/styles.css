@@ -328,6 +328,7 @@ width: 1128px;
     color: #2e2f42;
     text-transform: capitalize;
     margin-bottom: 8px;
+    margin-bottom: 72px;
 }
 
 .section-for { 
@@ -380,16 +381,13 @@ margin-bottom: 8px;
     color: #434455;
 }
 
-.darc-bg- { 
+.footer-class { 
 width: 1440px;
     height: 312px;
     background: #2e2f42;
-    
+    padding: 100px 0
 }
 
-.footer-class { 
-padding: 100px 0
-}
 
 .container-darc-bg- { 
 width: 264px;
