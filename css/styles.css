@@ -15,9 +15,12 @@ a {
     text-decoration: none;
 }
 
-h1 h2 h3 h4 h5 h5 p {
+h1 h2 h3 h4 h5 h5 ul p {
     margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
 }
+
 .header { 
     border-bottom: 1px solid #e7e9fc;
 }
@@ -312,11 +315,7 @@ padding-top: 120px;
 padding-bottom: 120px;
 }
 
-.container-section-for { 
-width: 1128px;
-    height: 1000px;
 
-}
 .title-class-our {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -382,8 +381,7 @@ margin-bottom: 8px;
 }
 
 .footer-class { 
-width: 1440px;
-    height: 312px;
+
     background: #2e2f42;
     padding: 100px 0
 }
